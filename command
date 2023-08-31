@@ -1,0 +1,1 @@
+g++ Robot.cpp -o robot -lX11 -lXtst
